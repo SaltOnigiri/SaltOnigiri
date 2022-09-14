@@ -8,9 +8,9 @@ Future programmer and lifelong humanitarian. I'm a third-year student at Meredit
 <h2>💻 Im Currently Learning</h2>
 
 _Meredith College_
-- DS-200-A Intro to Data Analysis
-- CS-230-A Web Programming with Database 
-- CS-212-A Object Oriented Programming 
+- DS-200 Intro to Data Analysis
+- CS-230 Web Programming with Database 
+- CS-212 Object Oriented Programming 
 
 <h2>🖱️ Planning to Take</h2>
 
@@ -27,11 +27,8 @@ _Meredith College_
 _Meredith College_
 - CS 190 Beginning Programming
 - CS 156 Web Site Design and Management
-- CS 212 Object Oriented Programming
 - Mat 171 Statistics
-- CS 230 Web programming with databases
 - CS 140 Databases
-- DS 200 Data Analysis 
 
 ![](Skills.png)
 
