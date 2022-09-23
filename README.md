@@ -58,7 +58,4 @@ You Can Email Me At:
 Or Check Out My Linkdln At:
 - https://www.linkedin.com/in/camryn-way-15756120b/
 
-Orrrrr View My Portfolio:
-- https://alecria61093.journoportfolio.com/
-
 <h2> 🧩 Happy Coding Everyone!</h2>
