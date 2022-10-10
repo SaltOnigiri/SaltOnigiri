@@ -38,9 +38,6 @@ _Data Analysis_
 _Tableau/JMP_
 - I am familiar with the tool and can learn it quickly in any business environment that you place me in.
 
-_Python_
-- I have knowledge of Python web frameworks and event-driven programming as well as a basic understanding of front-end technologies.
-
 _Java_
 - I am familiar with working with both external and embedded databases as well as utilizing object-oriented methodology for Java application design.
 
