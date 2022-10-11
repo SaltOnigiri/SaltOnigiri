@@ -45,7 +45,10 @@ _Excel_
 - I use Microsoft Excel to examine and interpret data in a variety of ways. As information can come from several different places, A variety of formats and conversions are available for the data.
 
 _SQL_
-- I am proficient in using Structured Query Language (SQL) to manage relational databases and perform various operations on the data in them. I am comfortable using Microsoft SQL Server and MySQL.
+- I am familiar with using Structured Query Language (SQL) and am currently practicing managing relational databases and performing various operations on data. I prefer using MySQL but will pick up any tool preferred.
+
+_JScript/JQuery/HTML/CSS_
+- Although I am still relatively new to this skill, I have been working intensly both inside and outside of the classroom to reach a level of proficiency I deem competent enough to showcase. 
 
 <h2> 📬 Reach Out!</h2>
 
