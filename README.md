@@ -47,7 +47,13 @@ _Excel_
 _SQL_
 - I am familiar with using Structured Query Language (SQL) and am currently practicing managing relational databases and performing various operations on data. I prefer using MySQL but will pick up any tool preferred.
 
-_JScript/JQuery/HTML/CSS_
+_JScript/JQuery_
+- I am familiar with using Jscript and JQuery for event handling, DOM manipulation, and for adding general interactive elements that engage a user.
+
+_HTML/CSS_
+- I am comfortable with structuring and creating a visual/aural layout for a webpage
+
+_PHP_
 - Although I am still relatively new to this skill, I have been working intensly both inside and outside of the classroom to reach a level of proficiency I deem competent enough to showcase. 
 
 <h2> 📬 Reach Out!</h2>
