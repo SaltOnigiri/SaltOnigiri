@@ -8,27 +8,30 @@ Future programmer and lifelong humanitarian. I'm a third-year student at Meredit
 <h2>💻 Im Currently Learning</h2>
 
 _Meredith College_
-- DS-200 Intro to Data Analysis
-- CS-230 Web Programming with Database 
-- CS-212 Object Oriented Programming 
+- CS 326 Networking and operating system
+- DS 210 Foundations of data science
+- CS 488 Mobile App Dvlpmt Swift
+- DS 488 Regression & Linear Mod
 
 <h2>🖱️ Planning to Take</h2>
 
 _Meredith College_
 - CS 110 Ethics and information technology
 - CS 301 Data structures and algorithms
-- CS 326 Networking and operating system
 - CS 407 Software engineering
-- DS 210 Foundations of data science
-
+- CS-120 Spreadsheets
+- CS-121 Spreadsheets II
 
 <h2> 🖥️ Already Taken</h2>
 
 _Meredith College_
 - CS 190 Beginning Programming
 - CS 156 Web Site Design and Management
-- Mat 171 Statistics
 - CS 140 Databases
+- DS-200 Intro to Data Analysis
+- CS-230 Web Programming with Database 
+- CS-212 Object Oriented Programming 
+- MAT-175 Statistics I
 
 ![](Skills.png)
 
