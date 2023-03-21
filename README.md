@@ -64,7 +64,7 @@ _PHP_
 You Can Email Me At:
 - ccway@email.meredith.edu
 
-Or Check Out My Linkdln At:
+Or Check Out My Linkedln At:
 - https://www.linkedin.com/in/camryn-way-15756120b/
 
 <h2> 🧩 Happy Coding Everyone!</h2>
