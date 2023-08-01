@@ -7,11 +7,20 @@ Future programmer and lifelong humanitarian. I'm a third-year student at Meredit
 
 <h2>💻 Im Currently Learning</h2>
 
-_Meredith College_
-- CS 326 Networking and operating system
-- DS 210 Foundations of data science
-- CS 488 Mobile App Dvlpmt Swift
-- DS 488 Regression & Linear Mod
+_Credit Suisse_
+10 Week Summer Internship
+- PowerBI
+- Shell
+- Python
+- Control M
+- Working with Large DataLakes
+
+The Problem We are Working on: Data platform metrics are required for the platform team to maintain stability, manage change, and optimise performance. Currently the metrics are obtained manually and inconsistently. Our internship team was tasked with completing the following objectives...
+
+- Automating the performance and usage metrics for the data platform itself
+- Visualizing the metrics with meaningful onsights on how to improve performance and stability using PowerBI Dashboards
+- Mitigating access risks by reducing change related incidents
+- Minimizing our datalakes total cost of ownership
 
 <h2>🖱️ Planning to Take</h2>
 
@@ -19,7 +28,6 @@ _Meredith College_
 - CS 110 Ethics and information technology
 - CS 301 Data structures and algorithms
 - CS 407 Software engineering
-- CS-120 Spreadsheets
 - CS-121 Spreadsheets II
 
 <h2> 🖥️ Already Taken</h2>
@@ -32,6 +40,11 @@ _Meredith College_
 - CS-230 Web Programming with Database 
 - CS-212 Object Oriented Programming 
 - MAT-175 Statistics I
+- CS 326 Networking and operating system
+- DS 210 Foundations of data science
+- CS 488 Mobile App Dvlpmt Swift
+- DS 488 Regression & Linear Mod
+- CS-120 Spreadsheets
 
 ![](Skills.png)
 
