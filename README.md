@@ -21,6 +21,7 @@ _The Problem We are Working on:_
 
 Data platform metrics are required for the platform team to maintain stability, manage change, and optimise performance. Our internship team was tasked with completing the following objectives...
 
+
 - Automating the performance and usage metrics for the data platform itself
 - Visualizing the metrics with meaningful insights on how to improve performance and stability using PowerBI Dashboards
 - Mitigating access risks by reducing change related incidents
