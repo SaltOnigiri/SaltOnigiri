@@ -7,9 +7,7 @@ Future programmer and lifelong humanitarian. I'm a third-year student at Meredit
 
 <h2>💻 Im Currently Learning</h2>
 
-_Credit Suisse_
-
-10 Week Summer Internship
+_Summer Internship at Credit Suisse_
 
 Tools Learned
 
@@ -19,10 +17,12 @@ Tools Learned
 - Control M
 - Working with Large DataLakes
 
-The Problem We are Working on: Data platform metrics are required for the platform team to maintain stability, manage change, and optimise performance. Currently the metrics are obtained manually and inconsistently. Our internship team was tasked with completing the following objectives...
+_The Problem We are Working on:_ 
+
+Data platform metrics are required for the platform team to maintain stability, manage change, and optimise performance. Our internship team was tasked with completing the following objectives...
 
 - Automating the performance and usage metrics for the data platform itself
-- Visualizing the metrics with meaningful onsights on how to improve performance and stability using PowerBI Dashboards
+- Visualizing the metrics with meaningful insights on how to improve performance and stability using PowerBI Dashboards
 - Mitigating access risks by reducing change related incidents
 - Minimizing our datalakes total cost of ownership
 
