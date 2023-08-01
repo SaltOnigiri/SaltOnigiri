@@ -8,7 +8,11 @@ Future programmer and lifelong humanitarian. I'm a third-year student at Meredit
 <h2>💻 Im Currently Learning</h2>
 
 _Credit Suisse_
+
 10 Week Summer Internship
+
+Tools Learned
+
 - PowerBI
 - Shell
 - Python
