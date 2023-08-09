@@ -30,25 +30,25 @@ Data platform metrics are required for the platform team to maintain stability, 
 <h2>🖱️ Planning to Take</h2>
 
 _Meredith College_
-- CS 110 Ethics and information technology
-- CS 301 Data structures and algorithms
-- CS 407 Software engineering
+- CS-110 Ethics and information technology
+- CS-301 Data structures and algorithms
+- CS-407 Software engineering
 - CS-121 Spreadsheets II
 
 <h2> 🖥️ Already Taken</h2>
 
 _Meredith College_
-- CS 190 Beginning Programming
-- CS 156 Web Site Design and Management
-- CS 140 Databases
+- CS-190 Beginning Programming
+- CS-156 Web Site Design and Management
+- CS-140 Databases
 - DS-200 Intro to Data Analysis
 - CS-230 Web Programming with Database 
 - CS-212 Object Oriented Programming 
 - MAT-175 Statistics I
-- CS 326 Networking and operating system
-- DS 210 Foundations of data science
-- CS 488 Mobile App Dvlpmt Swift
-- DS 488 Regression & Linear Mod
+- CS-326 Networking and operating system
+- DS-210 Foundations of data science
+- CS-488 Mobile App Dvlpmt Swift
+- DS-488 Regression & Linear Mod
 - CS-120 Spreadsheets
 
 ![](Skills.png)
