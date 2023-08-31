@@ -7,6 +7,18 @@ Future programmer and lifelong humanitarian. I'm a third-year student at Meredit
 
 <h2>💻 Im Currently Learning</h2>
 
+_Meredith College_
+- CS-110 Ethics and information technology
+- CS-301 Data structures and algorithms
+
+<h2>🖱️ Planning to Take</h2>
+
+_Meredith College_
+- CS-407 Software engineering
+- CS-121 Spreadsheets II
+
+<h2> 🖥️ Already Taken</h2>
+
 _Summer Internship at Credit Suisse_
 
 Tools Learned
@@ -17,7 +29,7 @@ Tools Learned
 - Control M
 - Working with Large DataLakes
 
-_The Problem We are Working on:_ 
+_The Problem We Worked on:_ 
 
 Data platform metrics are required for the platform team to maintain stability, manage change, and optimise performance. Our internship team was tasked with completing the following objectives...
 
@@ -27,15 +39,6 @@ Data platform metrics are required for the platform team to maintain stability, 
 - Mitigating access risks by reducing change related incidents
 - Minimizing our datalakes total cost of ownership
 
-<h2>🖱️ Planning to Take</h2>
-
-_Meredith College_
-- CS-110 Ethics and information technology
-- CS-301 Data structures and algorithms
-- CS-407 Software engineering
-- CS-121 Spreadsheets II
-
-<h2> 🖥️ Already Taken</h2>
 
 _Meredith College_
 - CS-190 Beginning Programming
@@ -56,7 +59,7 @@ _Meredith College_
 _Data Analysis_
 - I specialize in collecting, organizing, extrapolating, interpreting, and reporting data.
 
-_Tableau/JMP_
+_Tableau/JMP/Power BI_
 - I am familiar with the tool and can learn it quickly in any business environment that you place me in.
 
 _Java_
